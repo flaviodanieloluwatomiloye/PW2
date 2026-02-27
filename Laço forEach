@@ -1,0 +1,5 @@
+const frutas = ['Maçã', 'Banana', 'Laranja'];
+
+frutas.forEach(function(item) {
+  console.log(item);
+});
